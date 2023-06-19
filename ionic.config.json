@@ -1,0 +1,8 @@
+{
+  "name": "QR_generator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "aa34d303"
+}
